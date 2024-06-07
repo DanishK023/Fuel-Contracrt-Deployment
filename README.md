@@ -40,9 +40,14 @@ enter ```y``` when promt.
 ```
 ![ss5](https://github.com/DanishK023/Fuel-Contracrt-Deployment/assets/108999931/14d887e7-8a19-4c0b-a6c4-2f9cb4d0f87b)
 ![ss6](https://github.com/DanishK023/Fuel-Contracrt-Deployment/assets/108999931/570d4006-cf09-4e11-a7ed-e90e882b8b29)  
->Adding PATH to system
+>For LINUX Adding PATH to system
   ```bash
     source /root/.bashrc
+  ```
+
+>For CODESPACE(GITHUB) Adding PATH to system
+  ```bash
+    source /home/codespace/.bashrc
   ```
 
 # Set-Up Your Fuel Wallet
